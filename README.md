@@ -1,6 +1,6 @@
 # 🤖 Jarvis Voice Assistant (Gemini API)
 
-Jarvis is a simple **voice-controlled AI assistant** powered by **Google Gemini API**.  
+Jarvis is a **voice-controlled AI assistant** powered by **Google Gemini API**.  
 It listens to your voice 🎤, processes your query with Gemini (`gemini-2.0-flash`), and responds back with speech 🔊.
 
 ---
